@@ -53,7 +53,7 @@ function showAlert() {
   const isMobileDevice = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
   
   if (!isMobileDevice) {
-    alert('You must click the button!😂');
+    alert('Vous devez cliquer sur le bouton !😂');
   }
 }
 
