@@ -6,6 +6,7 @@ body {
   justify-content: flex-start; /* Align content at the top of the screen */
   height: 100vh;
   margin: 0;
+  background-color: #f0f0f0;
 }
 
 h1 {
@@ -30,7 +31,7 @@ input {
 }
 
 button {
-  background-color: #000;
+  background-color: red;
   width: 71px;
   border-radius: 5px;
   color: #fff;
